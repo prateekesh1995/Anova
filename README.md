@@ -8,11 +8,13 @@ This consist of three csv files
 There are two types of anova testing i have tried in this 
 1. Anova Single way factor 2. Anova Two way Factor
 
-Anova Single way factor is tried on Anovasingle
+Anova Single way factor is tried on Anovasingle and Dosage.
 
 Anova Two way Factor is tried on Anovadatafile
 
 Now directly to r code-:The File Anova.r is the code written for anova function for two factor variables and single factor variables.
 
+summary()- It will give the p-value,how significant the variable is
+TukeyHSD()- This function will tell how the two variable are comparable.
 
 
