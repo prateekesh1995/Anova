@@ -1,5 +1,5 @@
 ##Anova For Single Factor
-##choose the dosage1 file because there no anova is applied in excel
+##choose the dosage file because there no anova is applied in excel
 mydata<-read.csv(choose.files())
 View(mydata)
 names(mydata)
