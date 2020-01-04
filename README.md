@@ -12,7 +12,7 @@ Anova Single way factor is tried on Anovasingle
 
 Anova Two way Factor is tried on Anovadatafile
 
-Now directly to r code-:The File Anova.r is the code written for anova function for two way variables and single factor variables.
+Now directly to r code-:The File Anova.r is the code written for anova function for two factor variables and single factor variables.
 
 
 
