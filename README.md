@@ -11,3 +11,7 @@ There are two types of anova testing i have tried in this
 Anova Single way factor is tried on Anovasingle
 
 Anova Two way Factor is tried on Anovadatafile
+
+Now directly to r code-:
+
+
