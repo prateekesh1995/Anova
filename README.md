@@ -1,4 +1,4 @@
-# Anova(Its an example for practicing anova)
+# Anova
 Overview for the code
 
 This is comparing the differences between two or more variables
