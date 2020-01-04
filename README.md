@@ -1,4 +1,4 @@
-# Anova
+# Anova(Its an example for practicing anova)
 Overview for the code
 
 This is comparing the differences between two or more variables
@@ -12,6 +12,7 @@ Anova Single way factor is tried on Anovasingle
 
 Anova Two way Factor is tried on Anovadatafile
 
-Now directly to r code-:
+Now directly to r code-:The File Anova.r is the code written for anova function for two way variables and single factor variables.
+
 
 
